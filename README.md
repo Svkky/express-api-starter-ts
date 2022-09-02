@@ -32,9 +32,9 @@ NULL DEFAULT CURRENT_DATE, "transaction_Id" text COLLATE pg_catalog."default", r
 
 TABLESPACE pg_default;
 
-## ALTER TABLE IF EXISTS public.transactions OWNER to postgres;
+#ALTER TABLE IF EXISTS public.transactions OWNER to postgres;
 
-ToDos
+## ToDos
 
 1. Update logger to winston
 2. Write mocha test cases.
@@ -81,18 +81,6 @@ Development utilities:
 
 ```
 npm install
-```
-
-## Lint
-
-```
-npm run lint
-```
-
-## Test
-
-```
-npm run test
 ```
 
 ## Development
