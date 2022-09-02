@@ -10,6 +10,9 @@
     "lint": "eslint --fix src test",
     "test": "jest"
   },
+  "engines": {
+    "node": "12.11.1"
+    },
   "keywords": [],
   "author": "Yusuf sunkanmi",
   "repository": {
