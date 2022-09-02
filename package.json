@@ -11,7 +11,11 @@
     "test": "jest"
   },
   "keywords": [],
+<<<<<<< HEAD
   "author": "Yusuf sunkanmi",
+=======
+  "author": "yusuf sunkanmi",
+>>>>>>> 67907f68d46a800e4f12682c8b4215e0baec20c4
   "repository": {
     "type": "git",
     "url": ""
