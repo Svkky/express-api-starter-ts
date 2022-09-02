@@ -1,0 +1,6 @@
+{
+    "SECRET_KEY": "test_secret_key",
+    "TALGORITHM_KEY": "HS512",
+    "PSTACK_SECRET_KEY": "sk_test_9369f28cc8a60025ccf2a058216b7d51932f0b0f",
+    "PSTACK_PULIC_KEY": "pk_test_f1bdf35e9e5ab3f840a73caaeefe6b6de5ed387d"
+}
