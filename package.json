@@ -11,7 +11,8 @@
     "test": "jest"
   },
   "engines": {
-    "node": "12.11.1"
+    "node": "12.11.1",
+    "npm": "6.11.3"
     },
   "keywords": [],
   "author": "Yusuf sunkanmi",
