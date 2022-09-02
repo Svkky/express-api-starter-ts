@@ -38,7 +38,7 @@ app.use(bodyParser.json());
 
 app.get<{}, MessageResponse>('/', (req, res) => {
     res.json({
-        message: '🦄🌈✨👋🌎🌍🌏✨🌈🦄'
+        message: 'application is running'
     });
 });
 
